@@ -9,7 +9,7 @@
  * Autor: Katalina Marcos - Febrero 2005
  * ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  */
-
+//oscar
 package uniandes.cupi2.avion.interfaz;
 
 import java.awt.*;
