@@ -10,7 +10,6 @@
  * Autor: Pablo Barvo - 24-Ago-2005
  * ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  */
- //oscarord
 package uniandes.cupi2.avion.interfaz;
 
 import java.awt.*;
